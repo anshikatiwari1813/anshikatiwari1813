@@ -1,4 +1,4 @@
-# Hi there, I'm Anshika Tiwari 👋
+# Hi, I'm Anshika Tiwari 👋
 
 🎓 B.Tech Computer Science & Engineering (Artificial Intelligence & Machine Learning) student at Buddha Institute of Technology, Gorakhpur.
 
@@ -39,9 +39,12 @@
 
 📚 I use this GitHub to share my projects, learning journey, hackathon experiences, and experiments in AI and Machine Learning.
 
-📫 Connect with me:
 
-* LinkedIn: linkedin.com/in/anshika-tiwari-b611a4315
-* GitHub: github.com/anshikatiwari1813
+
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/anshika-tiwari-b611a4315
+
+💻 GitHub: https://github.com/anshikatiwari1813
 
 ⭐ Always open to learning, collaboration, research opportunities, and innovative AI projects.
